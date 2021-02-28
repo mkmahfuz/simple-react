@@ -1,0 +1,11 @@
+.header{   
+    display:flex;
+    justify-content: space-between;
+    background-color: cadetblue;
+    font-size: 40px;
+    color: wheat;
+}
+.header img{
+height: 70px;
+margin: 10px;
+}
