@@ -5,10 +5,10 @@ import './Header.css';
 
 const Header = () => {
     return (
-        <div className='header'>
+        <header className='header'>
             <img src={logo} alt=""/><span>IPL - International Premier League</span>
             <Navigation></Navigation>
-        </div>
+        </header>
     );
 };
 

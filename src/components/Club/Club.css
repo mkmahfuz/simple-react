@@ -1,10 +1,12 @@
-.club-container{
-    display: flex;
-}
+
 .players-container{
-    width: 70%;
-    margin-left: 20px;
-    margin-right: 20px;
-    border-right: 1px solid lightgray;
-    
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    /* align-content: space-around; */
+}
+
+
+.team-container{
+border-left: 1px solid lightgray;
 }

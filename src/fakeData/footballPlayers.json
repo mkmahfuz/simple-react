@@ -15,7 +15,7 @@
     },
     {
         "id": 39,
-        "name": "Ron-Thorbon Hoffmann",
+        "name": "Ron Thorbon",
         "position": "GoalKeepers",
         "salary": 200000,
         "image": "https://img.fcbayern.com/image/upload/t_cms-fullbody/f_auto/h_560,c_fill/cms/public/images/fcbayern-com/players/spielerportraits/ganzkoerper/ron-thorben_hoffmann_.png"
@@ -141,14 +141,14 @@
     },
     {
         "id": 11,
-        "name": "Douglas Costa de Souza",
+        "name": "Douglas Souza",
         "position": "Forwards",
         "salary": 210000,
         "image": "https://img.fcbayern.com/image/upload/t_cms-fullbody/f_auto/h_560,c_fill/cms/public/images/fcbayern-com/players/spielerportraits/ganzkoerper/douglas_costa_.png"
     },
     {
         "id": 13,
-        "name": "Eric Maxim Choupo-Moting",
+        "name": "Eric Maxim",
         "position": "Forwards",
         "salary": 190000,
         "image": "https://img.fcbayern.com/image/upload/t_cms-fullbody/f_auto/h_560,c_fill/cms/public/images/fcbayern-com/players/spielerportraits/ganzkoerper/choupo_moting_.png"
@@ -171,7 +171,7 @@
         "id": 42,
         "name": "Jamal Musiala",
         "position": "Forwards",
-        "salary": 18000,
+        "salary": 180000,
         "image": "https://img.fcbayern.com/image/upload/t_cms-fullbody/f_auto/h_560,c_fill/cms/public/images/fcbayern-com/players/spielerportraits/ganzkoerper/jamal_musiala.png"
     }
     
