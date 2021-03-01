@@ -3,175 +3,175 @@
         "id": 1,
         "name": "Manuel Neuer",
         "position": "GoalKeepers",
-        "salary": 2.5,
+        "salary": 250000,
         "image": "https://img.fcbayern.com/image/upload/t_cms-fullbody/f_auto/h_560,c_fill/cms/public/images/fcbayern-com/players/spielerportraits/ganzkoerper/manuel_neuer_.png"
     },
     {
         "id": 35,
         "name": "Alexander Nubel",
         "position": "GoalKeepers",
-        "salary": 2,
+        "salary": 210000,
         "image": "https://img.fcbayern.com/image/upload/t_cms-fullbody/f_auto/h_560,c_fill/cms/public/images/fcbayern-com/players/spielerportraits/ganzkoerper/alexander_nuebel.png"
     },
     {
         "id": 39,
         "name": "Ron-Thorbon Hoffmann",
         "position": "GoalKeepers",
-        "salary": 1.8,
+        "salary": 200000,
         "image": "https://img.fcbayern.com/image/upload/t_cms-fullbody/f_auto/h_560,c_fill/cms/public/images/fcbayern-com/players/spielerportraits/ganzkoerper/ron-thorben_hoffmann_.png"
     },
     {
         "id": 4,
         "name": "Niklas Sule",
         "position": "Deffenders",
-        "salary": 1.8,
+        "salary": 230000,
         "image": "https://img.fcbayern.com/image/upload/t_cms-fullbody/f_auto/h_560,c_fill/cms/public/images/fcbayern-com/players/spielerportraits/ganzkoerper/niklas_suele_.png"
     },
     {
         "id": 5,
         "name": "Benjamin Pavard",
         "position": "Deffenders",
-        "salary": 1.8,
+        "salary": 350000,
         "image": "https://img.fcbayern.com/image/upload/t_cms-fullbody/f_auto/h_560,c_fill/cms/public/images/fcbayern-com/players/spielerportraits/ganzkoerper/benjamin_pavard_.png"
     },
     {
         "id": 17,
         "name": "Jerome Boateng",
         "position": "Deffenders",
-        "salary": 1.8,
+        "salary": 210000,
         "image": "https://img.fcbayern.com/image/upload/t_cms-fullbody/f_auto/h_560,c_fill/cms/public/images/fcbayern-com/players/spielerportraits/ganzkoerper/jerome_boateng_.png"
     },
     {
         "id": 19,
         "name": "Alphonso Davies",
         "position": "Deffenders",
-        "salary": 1.8,
+        "salary": 210000,
         "image": "https://img.fcbayern.com/image/upload/t_cms-fullbody/f_auto/h_560,c_fill/cms/public/images/fcbayern-com/players/spielerportraits/ganzkoerper/alphonso_davies_.png"
     },
     {
         "id": 20,
         "name": "Bouna Sarr",
         "position": "Deffenders",
-        "salary": 1.8,
+        "salary": 210000,
         "image": "https://img.fcbayern.com/image/upload/t_cms-fullbody/f_auto/h_560,c_fill/cms/public/images/fcbayern-com/players/spielerportraits/ganzkoerper/bouna_sarr.png"
     },
     {
         "id": 21,
         "name": "Lucas Hernandez",
         "position": "Deffenders",
-        "salary": 1.8,
+        "salary": 270000,
         "image": "https://img.fcbayern.com/image/upload/t_cms-fullbody/f_auto/h_560,c_fill/cms/public/images/fcbayern-com/players/spielerportraits/ganzkoerper/lucas_hernandez_.png"
     },
     {
         "id": 23,
         "name": "Tanguy Nianzou",
         "position": "Deffenders",
-        "salary": 1.8,
+        "salary": 215000,
         "image": "https://img.fcbayern.com/image/upload/t_cms-fullbody/f_auto/h_560,c_fill/cms/public/images/fcbayern-com/players/spielerportraits/ganzkoerper/tanguy_nianzou.png"
     },
     {
         "id": 27,
         "name": "David Alaba",
         "position": "Deffenders",
-        "salary": 1.8,
+        "salary": 265000,
         "image": "https://img.fcbayern.com/image/upload/t_cms-fullbody/f_auto/h_560,c_fill/cms/public/images/fcbayern-com/players/spielerportraits/ganzkoerper/david_alaba_.png"
     },
     {
         "id": 6,
         "name": "Joshua Kimmich",
         "position": "Midfielders",
-        "salary": 1.8,
+        "salary": 180000,
         "image": "https://img.fcbayern.com/image/upload/t_cms-fullbody/f_auto/h_560,c_fill/cms/public/images/fcbayern-com/players/spielerportraits/ganzkoerper/joshua_kimmich_.png"
     },
     {
         "id": 8,
         "name": "Javi Martinez",
         "position": "Midfielders",
-        "salary": 1.8,
+        "salary": 190000,
         "image": "https://img.fcbayern.com/image/upload/t_cms-fullbody/f_auto/h_560,c_fill/cms/public/images/fcbayern-com/players/spielerportraits/ganzkoerper/javi_martinez_.png"
     },
     {
         "id": 18,
         "name": "Leon Gortezka",
         "position": "Midfielders",
-        "salary": 1.8,
+        "salary": 185000,
         "image": "https://img.fcbayern.com/image/upload/t_cms-fullbody/f_auto/h_560,c_fill/cms/public/images/fcbayern-com/players/spielerportraits/ganzkoerper/leon_goretzka_.png"
     },
     {
         "id": 22,
         "name": "Marc Roca",
         "position": "Midfielders",
-        "salary": 1.8,
+        "salary": 280000,
         "image": "https://img.fcbayern.com/image/upload/t_cms-fullbody/f_auto/h_560,c_fill/cms/public/images/fcbayern-com/players/spielerportraits/ganzkoerper/marc_roca.png"
     },
     {
         "id": 24,
         "name": "Corentin Tolisso",
         "position": "Midfielders",
-        "salary": 1.8,
+        "salary": 240000,
         "image": "https://img.fcbayern.com/image/upload/t_cms-fullbody/f_auto/h_560,c_fill/cms/public/images/fcbayern-com/players/spielerportraits/ganzkoerper/corentin_tolisso_.png"
     },
     {
         "id": 28,
         "name": "Tiago Dantas",
         "position": "Midfielders",
-        "salary": 1.8,
+        "salary": 2200000,
         "image": "https://img.fcbayern.com/image/upload/t_cms-fullbody/f_auto/h_560,c_fill/cms/public/images/fcbayern-com/players/spielerportraits/ganzkoerper/tiago_dantas.png"
     },
     {
         "id": 7,
         "name": "Serge Gnabry",
         "position": "Forwards",
-        "salary": 1.8,
+        "salary": 210500,
         "image": "https://img.fcbayern.com/image/upload/t_cms-fullbody/f_auto/h_560,c_fill/cms/public/images/fcbayern-com/players/spielerportraits/ganzkoerper/serge_gnabry_.png"
     },
     {
         "id": 9,
         "name": "Robert Lewandowski",
         "position": "Forwards",
-        "salary": 1.8,
+        "salary": 230000,
         "image": "https://img.fcbayern.com/image/upload/t_cms-fullbody/f_auto/h_560,c_fill/cms/public/images/fcbayern-com/players/spielerportraits/ganzkoerper/robert_lewandowski_.png"
     },
     {
         "id": 10,
         "name": "Leroy Sane",
         "position": "Forwards",
-        "salary": 1.8,
+        "salary": 270000,
         "image": "https://img.fcbayern.com/image/upload/t_cms-fullbody/f_auto/h_560,c_fill/cms/public/images/fcbayern-com/players/spielerportraits/ganzkoerper/leroy_sane_.png"
     },
     {
         "id": 11,
         "name": "Douglas Costa de Souza",
         "position": "Forwards",
-        "salary": 1.8,
+        "salary": 210000,
         "image": "https://img.fcbayern.com/image/upload/t_cms-fullbody/f_auto/h_560,c_fill/cms/public/images/fcbayern-com/players/spielerportraits/ganzkoerper/douglas_costa_.png"
     },
     {
         "id": 13,
         "name": "Eric Maxim Choupo-Moting",
         "position": "Forwards",
-        "salary": 1.8,
+        "salary": 190000,
         "image": "https://img.fcbayern.com/image/upload/t_cms-fullbody/f_auto/h_560,c_fill/cms/public/images/fcbayern-com/players/spielerportraits/ganzkoerper/choupo_moting_.png"
     },
     {
         "id": 25,
         "name": "Thomas Muller",
         "position": "Forwards",
-        "salary": 1.8,
+        "salary": 410000,
         "image": "https://img.fcbayern.com/image/upload/t_cms-fullbody/f_auto/h_560,c_fill/cms/public/images/fcbayern-com/players/spielerportraits/ganzkoerper/thomas_mueller_.png"
     },
     {
         "id": 29,
         "name": "Kingsley Coman",
         "position": "Forwards",
-        "salary": 1.8,
+        "salary": 270000,
         "image": "https://img.fcbayern.com/image/upload/t_cms-fullbody/f_auto/h_560,c_fill/cms/public/images/fcbayern-com/players/spielerportraits/ganzkoerper/kingsley_coman_.png"
     },
     {
         "id": 42,
         "name": "Jamal Musiala",
         "position": "Forwards",
-        "salary": 1.8,
+        "salary": 18000,
         "image": "https://img.fcbayern.com/image/upload/t_cms-fullbody/f_auto/h_560,c_fill/cms/public/images/fcbayern-com/players/spielerportraits/ganzkoerper/jamal_musiala.png"
     }
     

@@ -1,11 +1,11 @@
 import React from 'react';
-
+import './TeamPlayer.css';
 const TeamPlayer = (props) => {
-    const {name,salary} = props.player;
+    const {name,salary,id} = props.player;
     return (
-        <div>
-            <h5>Name : {name}</h5>
-            <p>Salary : {salary}</p>
+        <div className='teamPlayer'>
+            <h5>Player: {name} ({id}) : &euro; {salary}</h5><button onClick={()=>props.handleRemovePlayer(props.player)}>Remove</button>
+            <p></p>
         </div>
     );
 };
