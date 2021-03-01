@@ -1,12 +1,10 @@
-
-.players-container{
+.playersContainer{
     display: flex;
     flex-flow: row wrap;
     justify-content: space-around;
     /* align-content: space-around; */
 }
 
-
-.team-container{
+.teamContainer{
 border-left: 1px solid lightgray;
 }
